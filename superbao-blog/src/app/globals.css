@@ -76,7 +76,7 @@ html.light .ring-white\/15 { --tw-ring-color: rgba(0, 0, 0, 0.15) !important; }
 
 /* 渐变大标题 */
 .gradient-heading {
-  background: linear-gradient(90deg, #7cf2c4 0%, #7ec5ff 30%, #f6a5ff 60%, #ffd1a6 100%);
+  background: linear-gradient(90deg, #7cf2c4 0%, #7ec5ff 30%, #eee5cbd0 60%, #ffd1a6 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
